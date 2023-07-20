@@ -18,6 +18,12 @@ The main theme of MENTALES is mental disorders
 ![image](https://github.com/IsabelSusana/TECNOLOCHICAS/assets/136186826/edbbd0e9-0a3a-4ef5-82d3-fce385af1e5e)
 
 
+repositorio
+Nunca lo pude subir no pude sacar el link
+
+![image](https://github.com/IsabelSusana/TECNOLOCHICAS/assets/136186826/2f10baa9-c861-47cc-b8b9-67e721b5c584)
+
+
 
 
 -Google Interface (cloning)
